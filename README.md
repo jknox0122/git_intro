@@ -1,2 +1,1 @@
-John Knox 
-46
+John Knox
